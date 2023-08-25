@@ -107,7 +107,7 @@ Lembre se de colocar o título conforme o tipo da tarefa, uma mensagem que descr
 
 **Pronto, feito isso, é só aguardar a análise da sua PR, você será notificado caso seja aprovada ou o revisor solicite alguma alteração, BORA PRA CIMA!!!! 🚀🚀🚀**
 
-## Nossas redes sociais
+## Nossas redes sociais:
 
 <p align="center">
   <a href="https://discord.gg/tuBshbtPNU">
